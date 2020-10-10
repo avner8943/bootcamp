@@ -6,10 +6,10 @@ Created on Sat Oct 10 23:04:09 2020
 """
 
 
-# from keras.models import Sequential
-# from keras.layers import Dense
-# from keras.layers import LSTM
-# from keras.layers import Dropout
+from keras.models import Sequential
+from keras.layers import Dense
+from keras.layers import LSTM
+from keras.layers import Dropout
 import matplotlib.pyplot as plt
 
 import numpy as np
