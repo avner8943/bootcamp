@@ -29,7 +29,7 @@ sum_int = int_1+int_2
 
 X_train = np.concatenate((bin_arr[int_1], bin_arr[int_2]), 1)
 
-Y_train = bin_arr[sum_int]
+y_train = bin_arr[sum_int]
 
 
 regressor = Sequential()

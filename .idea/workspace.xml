@@ -48,6 +48,9 @@
       <module name="bootcamp" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -78,6 +81,8 @@
       <option name="presentableId" value="Default" />
       <updated>1602363291066</updated>
       <workItem from="1602363292382" duration="466000" />
+      <workItem from="1602364050515" duration="16000" />
+      <workItem from="1602364214808" duration="22000" />
     </task>
     <servers />
   </component>
